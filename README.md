@@ -3,6 +3,9 @@ HyperionDev Freelance Code Reviewer
 
 
 ## Instruction for section C: coding challenge
+###Option 1: Say the Number
+####build in `nodejs`
+
 	To run the program
 ## 	Install node modules
 `npm install`
