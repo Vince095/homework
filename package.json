@@ -1,0 +1,12 @@
+{
+  "name": "takehome",
+  "version": "1.0.0",
+  "description": "take home assesment",
+  "main": "sayNumber.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "sayNumber": "node sayNumber.js"
+  },
+  "author": "Vincent Thejane",
+  "license": "ISC"
+}
