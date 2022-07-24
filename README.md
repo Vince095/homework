@@ -33,4 +33,4 @@ this are the test suits used
 worst case space complexity is `O(n)`
 	becuase the input split into chunks of individual values 
 	` chunks.push(string.slice((start = Math.max(0, start- 3 )),end));`
-	so the `chunks[]` array will take `4*n` bit of space in the computational device
+	so the `chunks[]` array will take `4*n` bit of space in the computational device depending on the size of input.
